@@ -13,7 +13,7 @@ This repository provides a GitHub Codespaces environment with:
 ## What's Included
 
 - Playwright Test framework pre-installed
-- All browser binaries (Chromium, Firefox, WebKit) with system dependencies
+- Chromium browser with system dependencies
 - Pre-configured VS Code settings and extensions
 - Common development ports forwarded (3000, 5173, 8080)
 
